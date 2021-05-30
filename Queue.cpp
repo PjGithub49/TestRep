@@ -5,11 +5,11 @@
  *      Author: root
  */
 
-#include "Queue.h"
-#include <iostream.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+// #include "Queue.h"
+// #include <iostream.h>
+// #include <stdio.h>
+// #include <stdlib.h>
+// #include <string.h>
 
 Queue::Queue() {
 	// TODO Auto-generated constructor stub
